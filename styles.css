@@ -139,7 +139,7 @@ textarea {
 }
 
 /* Widths */
-#teacher-input { width: 150px; text-transform: uppercase; }
+#teacher-input { width: 170px; text-transform: uppercase; }
 #duration-input { width: 390px; }
 #starts-input {
   width: 250px;
